@@ -1,2 +1,1 @@
-# bledy
-szybkie bledy
+# bledy - A Jamróz, A Kołodyński
